@@ -1,0 +1,7 @@
+build/
+src/lex.yy.c
+*.o
+__pycache__/
+*.pyc
+*~
+examples
